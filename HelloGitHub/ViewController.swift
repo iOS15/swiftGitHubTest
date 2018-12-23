@@ -6,15 +6,16 @@
 //  Copyright © 2018 David Dörflinger. All rights reserved.
 //
 
+
 import UIKit
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        // test git
+        print("testing the GitHub stuff")
     }
 
-
 }
-
