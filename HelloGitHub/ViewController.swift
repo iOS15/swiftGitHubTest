@@ -15,10 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         // test git
-        print("testing the GitHub stuff")
-        
-        // add new code
-        print("does it work ?")
+        print("yeah")
     }
 
 }
