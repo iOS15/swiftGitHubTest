@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         
         // test git
         print("testing the GitHub stuff")
+        
+        // add new code
+        print("does it work ?")
     }
 
 }
